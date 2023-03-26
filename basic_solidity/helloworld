@@ -1,0 +1,8 @@
+// pragma is compiler version of solidity
+//SPDX-License-Identifier:MIT 
+
+pragma solidity ^0.8.0;        //here compiler version should be greater than or equal to  0.8.0
+
+contract HelloWorld{
+    string public hel= "HELLO WORLD";
+}
